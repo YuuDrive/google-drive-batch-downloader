@@ -1,0 +1,11 @@
+Env/
+.vscode/
+
+__pycache__/
+**/__pycache__
+**/**/__pycache__
+
+.env
+
+downloads/*
+!downloads/.gitkeep
